@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RandomMovie</string>
+    <string name="random_movie">Random Movie</string>
+    <string name="movie_generator">Movie Generator</string>
+
+
+    //Dialog Description
+    <string name="mg_description">Simply Click "Generate" to create a random movie selection from our 100 plus movie picker database.
+        WARNING: You will only be allowed to generate 5 times before user is blocked for 30min </string>
+</resources>

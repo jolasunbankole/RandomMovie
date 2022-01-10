@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+<RelativeLayout
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gold"
+    tools:context=".ui.MoviesFragment">
+
+
+    <TextView
+        android:id="@+id/TitleText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="5dp"
+        android:gravity="center"
+        android:textColor="@color/RedCarpet"
+        android:textStyle="bold"
+        android:text="@string/random_movie"
+        android:textAllCaps="true"
+        android:textSize="40sp" />
+
+
+
+</RelativeLayout>
+</layout>
